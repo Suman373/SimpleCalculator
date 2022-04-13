@@ -18,6 +18,6 @@
 
 #### No javascript, and frameworks have been used.
 
-#### Website link : [https://Suman373.github.io/SimCal/SimpleCalc]
+#### Website link : [https://Suman373.github.io/SimCal/Simplecalc]
 
 #### Acknowledgements : Free resources on youtube. Without whom I would have never learned about web-development(front-end).
