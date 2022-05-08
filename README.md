@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/167284569-fed65f0f-f57e-4fe0-99f6-f81160f8bef6.png"></p>
 
  <h2 align="center"> A Simple Calculator </h2>
 
