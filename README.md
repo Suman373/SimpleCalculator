@@ -16,8 +16,4 @@
 - The display panel shows the result after the operation
 - **Desktop**, **tablet** and **mobile responsive**
 
-#### No javascript, and frameworks have been used.
-
-#### Website link : [https://Suman373.github.io/SimCal/SimpleCalc]
-
-#### Acknowledgements : Free resources on youtube. Without whom I would have never learned about web-development(front-end).
+#### No javascript, and frameworks have been used!!
